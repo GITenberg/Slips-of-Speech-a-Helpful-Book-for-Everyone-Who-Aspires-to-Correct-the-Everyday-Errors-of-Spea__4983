@@ -1,0 +1,27 @@
+_repo: Slips-of-Speech-a-Helpful-Book-for-Everyone-Who-Aspires-to-Correct-the-Everyday-Errors-of-Spea__4983
+creator:
+  author:
+    agent_name: Bechtel, John Hendricks
+    birthdate: 1841
+    gutenberg_agent_id: '1617'
+    url: http://www.gutenberg.org/2009/agents/1617
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Idioms'
+- !lcsh 'English language -- Errors of usage'
+- !lcc 'PE'
+tableOfContents: Taste -- Choice of words -- Contractions -- Possessive case -- Pronouns
+  -- Number -- Adverbs -- Conjunctions -- Correlatives -- The infinitive -- Participles
+  -- Prepositions -- The article -- Redundancy -- Two negatives -- Accordance of verb
+  with subject.
+title: 'Slips of Speech : a Helpful Book for Everyone Who Aspires to Correct the Everyday
+  Errors of Speaking'
+url: http://www.gutenberg.org/ebooks/4983
